@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.spring</groupId>
     <artifactId>spring-pet-clinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>spring-pet-clinic</name>
     <description>Demo project for Spring Boot</description>
     <properties>
@@ -25,7 +25,7 @@
     </dependencies>
     <scm>
         <developerConnection>scm:git:https://github.com/thaheer-shaik/spring-pet-clinic.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>spring-pet-clinic-0.0.2</tag>
     </scm>
     <build>
         <pluginManagement>
